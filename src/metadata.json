@@ -1,0 +1,9 @@
+{
+  "description": "This is a Gnome Extension that allows you to move the a11y indicator to the quick settings menu",
+  "name": "Quick Accessibility",
+  "url": "https://github.com/chesnoksatan/Quick-Accessibility",
+  "shell-version": ["45", "46", "47"],
+  "uuid": "quick-accessibility@chesnoksatan",
+  "gettext-domain": "quick-accessibility",
+  "version": 1
+}
